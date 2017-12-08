@@ -40,7 +40,7 @@ p {
 
 .primary-blue-button a {
 	display: inline-block;
-	background-color: #33c1cf;
+	background-color: #129CF3;
 	font-size: 13px;
 	padding: 12px 18px;
 	color: #fff;
@@ -327,7 +327,7 @@ bootstrap.min.css:5
 #rv .section-heading {
 	padding-top: 200px;
 	padding-bottom: 200px;
-	background-color: #33c1cf;
+	background-color: #129CF3;
 	height: 732px;
 	margin-left: -100vh;
 	padding-left: 100vh;
