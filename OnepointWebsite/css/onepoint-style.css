@@ -434,6 +434,10 @@ bootstrap.min.css:5
 	padding-right: 70px;
 }
 
+#rm .content-wrapper {
+	padding-bottom: 6px;
+}
+
 #testimonial {
 	background-color: #f7c552;
 	text-align: center;
