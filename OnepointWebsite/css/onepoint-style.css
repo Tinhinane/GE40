@@ -333,6 +333,15 @@ bootstrap.min.css:5
 	padding-left: 100vh;
 }
 
+#rv .section-heading {
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background-color: #129CF3;
+	height: 732px;
+	margin-left: -100vh;
+	padding-left: 100vh;
+}
+
 #rv .project-item {
 	margin: 0px -16px;
 }
@@ -365,7 +374,7 @@ bootstrap.min.css:5
 #ra .section-heading {
 	padding-top: 200px;
 	padding-bottom: 200px;
-	background-color: #129CF3;
+	background-color: #fff;
 	height: 732px;
 	margin-left: -100vh;
 	padding-left: 100vh;
@@ -380,7 +389,7 @@ bootstrap.min.css:5
 	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #fff;
+	color: #129CF3;
 	letter-spacing: 1px;
 }
 
