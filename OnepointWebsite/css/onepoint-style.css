@@ -396,12 +396,12 @@ bootstrap.min.css:5
 #ra .section-heading .line-dec {
 	width: 270px;
 	height: 1px;
-	background-color: rgba(250, 250, 250, 0.5);
+	background-color: #129CF3;
 	margin: 20px 0px 15px 0px;
 }
 
 #ra .section-heading p {
-	color: #fff;
+	color: #129CF3;
 	padding-right: 70px;
 }
 
