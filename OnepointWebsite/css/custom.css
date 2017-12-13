@@ -1,0 +1,13 @@
+.custom-line{
+    width: 270px;
+    height: 1px;
+    background-color: #129CF3;
+    margin: 20px 0px 15px 0px;
+}
+
+#custom-text{
+    font-size: 14px;
+    line-height: 24px;
+    color: #129CF3;
+    padding-right: 70px;
+}
