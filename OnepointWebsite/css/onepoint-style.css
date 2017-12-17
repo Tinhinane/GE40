@@ -25,6 +25,10 @@ p {
   background-size: cover;
 }
 
+td{
+	padding-right : 10px;
+}
+
 .primary-white-button a {
 	display: inline-block;
 	background-color: #fff;
