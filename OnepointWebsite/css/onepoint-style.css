@@ -263,9 +263,9 @@ bootstrap.min.css:5
 	display: inline-block;
 	text-align: center;
 	line-height: 104px;
-	border: 3px solid #fff;
+	border: 3px solid #129CF3;
 	border-radius: 50%;
-	background-color: #f7c552;
+	background-color: #DDD;
 }
 
 #about .service-item h4 {
