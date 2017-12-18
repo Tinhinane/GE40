@@ -247,7 +247,7 @@ bootstrap.min.css:5
 
 #about {
 	padding: 150px 0px;
-	background-image: url(../img/banner_bg.jpg);
+	background-image: url(../img/blue_sky.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
@@ -306,8 +306,9 @@ bootstrap.min.css:5
 }
 
 .filter-categories ul li {
-  margin: 0px 10px 15px 0px;
+  /*margin: 0px 10px 15px 0px;*/
   display: block;
+  list-style-position: inside;
 }
 
 .filter-categories ul li span {
